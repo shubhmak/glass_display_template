@@ -8,7 +8,7 @@
   },
   "author": "",
   "license": "ISC",
-  "homepage":"https://shubhmak.github.io/glass_display/"
+  "homepage":"https://shubhmak.github.io/glass_display/",
   "dependencies": {
     "gh-pages": "^3.2.3"
   }
