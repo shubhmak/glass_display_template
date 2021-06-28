@@ -1,0 +1,15 @@
+{
+  "name": "glass_display",
+  "version": "1.0.0",
+  "description": "transparent menu template",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d glass_display"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage":"https://shubhmak.github.io/glass_display/"
+  "dependencies": {
+    "gh-pages": "^3.2.3"
+  }
+}
